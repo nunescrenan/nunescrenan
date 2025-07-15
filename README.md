@@ -43,7 +43,7 @@
 <p align="left">
   - 💵 <a href="https://cruzeirocgu.com.br/" target="_blank">Cruzeiro Cgu</a><br>
   - 🍁 <a href="https://grupoevoluircgu.com.br/" target="_blank">Grupo Evoluir</a><br>
-  - 📲 <a href="https://github.com/nunescrenan/southstore" target="_blank">South Store</a><br>
+  - 🍎 <a href="https://github.com/nunescrenan/southstore" target="_blank">South Store</a><br>
   - 🎥 <a href="https://github.com/nunescrenan/youtube-previewer" target="_blank">Youtube Previewer</a><br>
   - 🐍 <a href="https://github.com/nunescrenan/ai-assistant" target="_blank">Python AI Assistant</a><br>
   - ⚡ More is coming soon...
