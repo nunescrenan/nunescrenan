@@ -40,7 +40,11 @@
 
 ###
 
-<p align="left">- 💵 (Cruzeiro Cgu)[https://cruzeirocgu.com.br/]<br>- 🍁 [Grupo Evoluir](https://grupoevoluircgu.com.br/)<br>- ⚡ More is coming soon...</p>
+<p align="left">
+  - 💵 <a href="https://cruzeirocgu.com.br/" target="_blank">Cruzeiro Cgu</a><br>
+  - 🍁 <a href="https://grupoevoluircgu.com.br/" target="_blank">Grupo Evoluir</a><br>
+  - ⚡ More is coming soon...
+</p>
 
 ###
 
