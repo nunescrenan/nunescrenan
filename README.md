@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nunescrenan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nunescrenan&theme=dark" alt="GitHub Streak" />
 </div>
 
 ###
