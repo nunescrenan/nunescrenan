@@ -46,6 +46,7 @@
   - 🍎 <a href="https://github.com/nunescrenan/southstore" target="_blank">South Store</a><br>
   - 🎥 <a href="https://github.com/nunescrenan/youtube-previewer" target="_blank">Youtube Previewer</a><br>
   - 🐍 <a href="https://github.com/nunescrenan/ai-assistant" target="_blank">Python AI Assistant</a><br>
+  - 🎧 <a href="https://github.com/nunescrenan/transcriber" target="_blank">Audio Transcriber</a><br>
   - ⚡ More is coming soon...
 </p>
 
